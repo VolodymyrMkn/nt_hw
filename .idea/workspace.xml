@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ac8e076-2e4e-4fd6-a800-c9e9994d9dcc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2P3WRP5PSew2Q0e6Zv23pvqzYj2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.laravel-idea.search-composer-json" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ac8e076-2e4e-4fd6-a800-c9e9994d9dcc" name="Default Changelist" comment="" />
+      <created>1682686236942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682686236942</updated>
+      <workItem from="1682686238609" duration="28000" />
+      <workItem from="1682959066657" duration="7725000" />
+      <workItem from="1683054966948" duration="1206000" />
+      <workItem from="1683194780167" duration="4202000" />
+      <workItem from="1683218091485" duration="10357000" />
+      <workItem from="1683563616785" duration="8022000" />
+      <workItem from="1683731593301" duration="7272000" />
+      <workItem from="1683750052326" duration="2508000" />
+      <workItem from="1683752838624" duration="193000" />
+      <workItem from="1683822208537" duration="11094000" />
+      <workItem from="1684004662178" duration="53000" />
+      <workItem from="1684077306122" duration="18968000" />
+      <workItem from="1684097014480" duration="35000" />
+      <workItem from="1684097626101" duration="7000" />
+      <workItem from="1684149610114" duration="2724000" />
+      <workItem from="1684168250805" duration="6379000" />
+      <workItem from="1684175064045" duration="2367000" />
+      <workItem from="1684180002736" duration="38000" />
+      <workItem from="1684350246515" duration="2310000" />
+      <workItem from="1684352686235" duration="983000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
